@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/intern7/Desktop/mssql/logs/.4cc7ceb647a0722a629b7ab5644aff233e0a7175-audit.json",
+    "files": [
+        {
+            "date": 1657622575227,
+            "name": "/home/intern7/Desktop/mssql/logs/2022-07-12.log",
+            "hash": "e8f92bb5a50a9c97ae0761008dfcd6b3a347d2d7ac4ddb561aa02a35e859a0fc"
+        }
+    ],
+    "hashType": "sha256"
+}
